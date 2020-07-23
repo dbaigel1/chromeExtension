@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Instructions:
+
+Clone the git repo
+Run 'npm run build'
+Go to chrome extensions and add build folder to extensions
+right click on any page and click get headlines to use extension
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
