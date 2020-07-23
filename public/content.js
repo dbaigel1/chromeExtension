@@ -19,5 +19,8 @@ chrome.runtime.onMessage.addListener(request => {
             dialog.close();
         });
     }
+    else if(request.type === 'findHeadlines'){
+        console.log("clickied")
+    }
   });
 
